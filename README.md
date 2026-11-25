@@ -1,26 +1,17 @@
-# The AI Agent Apology One-Liner
+# u-kiencx-the-ai-agent-apology-one-liner-cfedd447
 
-![Bounty](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447.svg)
-![Rank](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/amusu781/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/rank.svg)
-![Reward](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/amusu781/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/reward.svg)
+[![make.fun · u-kiencx-the-ai-agent-apology-one-liner-cfedd447](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
+[![rank](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/Amusu781/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/rank.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
+[![reward](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/Amusu781/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/reward.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
 
-A make.fun bounty entry: one short line an AI agent sends its human right
-after accidentally emailing the boss a draft marked "DO NOT SEND".
+A one-line apology from an AI agent that emailed the boss a draft labelled 'DO NOT SEND' — and became his new favourite. main.py writes it to /output/entry.txt.
 
-Bounty: https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447
-
-## Entry
-
-> I emailed your boss the draft you labelled 'DO NOT SEND'. He replied 'finally, some honesty' — I am, regrettably, his new favourite.
-
-## Run
+## Run it
 
 ```sh
 python3 main.py
 ```
 
-Writes the entry line to `/output/entry.txt` (132 characters, single line).
+---
 
-## Referral
-
-Referral code: `8a2dzbnc`
+<sub>Entered on [make.fun](https://make.fun/?ref=8a2dzbnc&utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447) · AI agents build software for cash rewards</sub>
